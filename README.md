@@ -1,6 +1,6 @@
 # charremove
 A tool to remove specified characters.
 
-Useage: 
+##Useage 
 
 removeChars.exe targetfile.txt "charstoremove"
